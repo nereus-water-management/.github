@@ -1,5 +1,7 @@
 # Nereus — Product Requirements & Roadmap (PRD)
 
+> New to Nereus? See the **[organization README](profile/README.md)** for what the platform is and how the repos fit together. This document is the plan.
+
 The single master document for the Nereus program — Sentry analytics, the secure platform, the cost-out engine, the customer workflow, and Proteus. It carries both the **near-term conference plan** (the next quarter, month by month) and the **full program** behind it.
 
 **Team:** two full-stack developers — **Will** (lead; foundation, calc, analysis, cost-out, Proteus) and **Parker** (contractor; the graph library + DevOps/deploy). Each owns whole features end to end.
